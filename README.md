@@ -52,7 +52,7 @@ I enjoy building scalable AI products that bridge research and real-world deploy
 
 ## 📫 Connect
 
-- 🌐 Portfolio: **(https://portfolio-zaraar-malik.vercel.app/)**
+- 🌐 Portfolio: **https://portfolio-zaraar-malik.vercel.app/**
 - 💼 LinkedIn: **www.linkedin.com/in/zaraar-malik-811675246**
 - 📧 Email: **zaraarmalik5303@gmail.com**
 ```
