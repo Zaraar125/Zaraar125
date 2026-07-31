@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Zaraar Malik 👋
 
 **AI Engineer** specializing in **Retrieval-Augmented Generation (RAG)**, **Small Language Models**, **Computer Vision**, and **Production AI Systems**.
